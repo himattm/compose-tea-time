@@ -2,17 +2,18 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/matthewcmckenna/compose-tea-time/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+This app is a countdown timer to help you make the perfect cup of tea for a range of tea types.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-
+It took me a bit to understand how to animate the color for the tea in the cup, but once I learned about Animatable, it was much more simple!
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->

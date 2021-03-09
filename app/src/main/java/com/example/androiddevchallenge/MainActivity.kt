@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
 @ExperimentalTime
 @Composable
 fun MyApp() {
-    val quickTime = 1
+    val quickTime = 20
 
     val scope = rememberCoroutineScope()
     var countDown by remember {
